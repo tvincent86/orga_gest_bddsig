@@ -3,7 +3,7 @@
 # Organisation et principe de fonctionnement de la base de données SIG
 
 
-![picto](/doc/img/Logo_web-GeoCompiegnois.png)
+![picto](/blason_na.png)
 
 
 ## Les rôles de connexion et privilèges des groupes
